@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Nacho 🤠</h1>
 <h3 align="center">A passionate spanish backend developer</h3>
 
-- 🔭 I’m currently working on **WebScrapper**
+- 🔭 I’m currently working on **WithTHeHandsInTheNASA** NASA Hackaton
 
 - 🌱 I’m currently learning **AI, cybersecurity**
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://es.linkedin.com/in/nachetto](https://es.linkedin.com/in/nachetto)
 
-- 📫 How to reach me **nachete@mail.com**
+- 📫 How to reach me **nacho@programmer.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
